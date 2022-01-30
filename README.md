@@ -2,9 +2,9 @@
 ------------------------
 #### About Me:
 
-📚 An Electrical Engineering student at Federal University of Maranhão
-💻 An active learner who's passionate about Data Science and Computer Programming
-📈 Data Analysis, Data Visualization and  Machine Learning algorithms
+📚 An Electrical Engineering student at Federal University of Maranhão<br/>
+💻 An active learner who's passionate about Data Science and Computer Programming<br/>
+📈 Data Analysis, Data Visualization and  Machine Learning algorithms<br/>
 
 ⚡ I've made some nice projects that you can find [here]. 
 
