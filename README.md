@@ -6,7 +6,7 @@
 💻 An active learner who's passionate about Data Science and Computer Programming<br/>
 📈 Data Analysis, Data Visualization and  Machine Learning algorithms<br/>
 
-⚡ I've made some nice projects that you can find [here]. 
+⚡ I am currently woking in some nice projects that you can find [here]. 
 
 ------
 #### Description of some of my projects:
