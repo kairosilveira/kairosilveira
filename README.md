@@ -16,7 +16,12 @@ Data science project to extract insights from data and create a machine learning
  to predict prices in the real state market(still working on it).<br/>
 - [Titanic Competition]:
 This is a kaggle competition for begginers that I used to show how to use pipelines for 
-data preparation and how to tune the hyperparameters of the pipeline with GridSearchCV. <br/>
+data preparation and how to tune the hyperparameters of the pipeline transformers and predictors with GridSearchCV. <br/>
+
+- [MNIST-with-ScikitLearn]:
+In this small computer vision project, I use the famous MNIST dataset to
+ build a model for the Kaggle competition and I also try to classify some images 
+ that I made myself(still working on it). I do this using scikitlearn.<br/>
 --------------
 
 ####  Contact me here:
@@ -67,3 +72,4 @@ data preparation and how to tune the hyperparameters of the pipeline with GridSe
 [gratibox]: https://gratibox-front-end.vercel.app/
 [House Rocket]: https://github.com/kairosilveira/House_Rocket_House_Prices_Regression
 [Titanic Competition]: https://github.com/kairosilveira/Titanic_GridSearchCV_DataPreparation
+[MNIST-with-ScikitLearn]: https://github.com/kairosilveira/MNIST-with-ScikitLearn
