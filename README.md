@@ -11,10 +11,12 @@
 ------
 #### Description of some of my projects:
 
-[House Rocket]:
-Data science project to extract insights from data and create a machine learning model to predict prices in the real state market(still working on it).<br/>
-[Titanic Competition]:
-This is a kaggle competition for begginers that I used to show how to use pipelines for data preparation and how to tune the hyperparameters of the pipeline with GridSearchCV. <br/>
+- [House Rocket]:
+Data science project to extract insights from data and create a machine learning model
+ to predict prices in the real state market(still working on it).<br/>
+- [Titanic Competition]:
+This is a kaggle competition for begginers that I used to show how to use pipelines for 
+data preparation and how to tune the hyperparameters of the pipeline with GridSearchCV. <br/>
 --------------
 
 ####  Contact me here:
