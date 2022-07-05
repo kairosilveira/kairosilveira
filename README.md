@@ -70,6 +70,6 @@ In this small computer vision project, I use the famous MNIST dataset to
 [gmail]: mailto:kairo.silveira.contato@gmail.com
 [linkedin]: https://www.linkedin.com/in/kairosilveira/
 [gratibox]: https://gratibox-front-end.vercel.app/
-[House Price Regression]: https://github.com/kairosilveira/House_Prices_Regression
+[House Price Regression]: https://github.com/kairosilveira/house-pricing-regression
 [Titanic Competition]: https://github.com/kairosilveira/Titanic_GridSearchCV_DataPreparation
 [MNIST-with-ScikitLearn]: https://github.com/kairosilveira/MNIST-with-ScikitLearn
