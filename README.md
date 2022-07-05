@@ -4,7 +4,7 @@
 
 📚 An Electrical Engineering student at Federal University of Maranhão<br/>
 💻 An active learner who's passionate about Data Science and Computer Programming<br/>
-📈 Data Analysis, Data Visualization and  Machine Learning algorithms<br/>
+📈 Data science, Machine Learning Engineering<br/>
 
 ⚡ I am currently woking in some nice projects that you can find [here]. 
 
@@ -13,9 +13,9 @@
 
 - [House Price Regression]:
 Data science project to extract insights from data and create a machine learning model
- to predict prices in the real state market(still working on it).<br/>
+ to predict prices in the real state market.<br/>
 - [Titanic Competition]:
-This is a kaggle competition for begginers that I used to show how to use pipelines for 
+This is a kaggle competition for begginers that I used to show how to use sklearn pipelines for 
 data preparation and how to tune the hyperparameters of the pipeline transformers and predictors with GridSearchCV. <br/>
 
 - [MNIST-with-ScikitLearn]:
