@@ -2,8 +2,8 @@
 ------------------------
 #### About Me:
 
-📚 An Electrical Engineering student at Federal University of Maranhão<br/>
-💻 An active learner who's passionate about Data Science and Computer Programming<br/>
+📚 An Computer Science Eletronics and Embedded Systems student at Université Grenoble Alpes(France) and Federal University of Maranhão(Brazil)<br/>
+💻 An active learner who's passionate about Math and Computer Programming<br/>
 📈 Data science, Machine Learning Engineering<br/>
 
 ⚡ I am currently woking in some nice projects that you can find [here]. 
@@ -14,14 +14,14 @@
 - [House Price Regression]:
 Data science project to extract insights from data and create a machine learning model
  to predict prices in the real state market.<br/>
-- [Titanic Competition]:
-This is a kaggle competition for begginers that I used to show how to use sklearn pipelines for 
-data preparation and how to tune the hyperparameters of the pipeline transformers and predictors with GridSearchCV. <br/>
 
 - [MNIST-with-ScikitLearn]:
 In this small computer vision project, I use the famous MNIST dataset to
- build a model for the Kaggle competition and I also try to classify some images 
- that I made myself(still working on it). I do this using scikitlearn.<br/>
+ build a model. The goal is to apply techniques of dimensionality reduction and Bayesian Optimization for quicker hyperparameter tuning.<br/>
+
+ - [Titanic Competition]:
+This is a kaggle competition for begginers that I used to show how to use sklearn pipelines for 
+data preparation and how to tune the hyperparameters of the pipeline transformers and predictors with GridSearchCV. <br/>
 --------------
 
 ####  Contact me here:
@@ -32,7 +32,7 @@ In this small computer vision project, I use the famous MNIST dataset to
 #### Here are the tools and languages I have experience with:
 
 <p>
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
@@ -48,8 +48,11 @@ In this small computer vision project, I use the famous MNIST dataset to
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
     
