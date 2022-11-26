@@ -2,7 +2,7 @@
 ------------------------
 #### About Me:
 
-📚 An Computer Science Eletronics and Embedded Systems student at Université Grenoble Alpes(France) and Federal University of Maranhão(Brazil)<br/>
+📚 A Computer Science Eletronics and Embedded Systems student at Université Grenoble Alpes(France) and Federal University of Maranhão(Brazil)<br/>
 💻 An active learner who's passionate about Math and Computer Programming<br/>
 📈 Data science, Machine Learning Engineering<br/>
 
@@ -13,7 +13,7 @@
 
 - [House Price Regression]:
 Data science project to extract insights from data and create a machine learning model
- to predict prices in the real state market.<br/>
+ to predict prices in the real state market. You can make predictions using the [WebApp]<br/>
 
 - [MNIST-with-ScikitLearn]:
 In this small computer vision project, I use the famous MNIST dataset to
@@ -75,3 +75,4 @@ data preparation and how to tune the hyperparameters of the pipeline transformer
 [House Price Regression]: https://github.com/kairosilveira/house-pricing-regression
 [Titanic Competition]: https://github.com/kairosilveira/Titanic_GridSearchCV_DataPreparation
 [MNIST-with-ScikitLearn]: https://github.com/kairosilveira/MNIST-with-ScikitLearn
+[WebApp]: https://king-county-house-prices.vercel.app/about
