@@ -75,4 +75,4 @@ data preparation and how to tune the hyperparameters of the pipeline transformer
 [House Price Regression]: https://github.com/kairosilveira/house-pricing-regression
 [Titanic Competition]: https://github.com/kairosilveira/Titanic_GridSearchCV_DataPreparation
 [MNIST-with-ScikitLearn]: https://github.com/kairosilveira/MNIST-with-ScikitLearn
-[WebApp]: https://king-county-house-prices.vercel.app/about
+[WebApp]: https://king-county-house-prices.vercel.app/
