@@ -13,7 +13,8 @@
 
 - [House Price Regression]:
 End to end data science project to extract insights from data and create a machine learning model
- to predict prices in the real state market. You can make predictions using the webapp:[king-county-house-prices]<br/>. #Flask #MLFlow #Sklearn #Pandas
+ to predict prices in the real state market. You can make predictions using the webapp: [king-county-house-prices]<br/>. 
+ #Flask #MLFlow #Sklearn #Pandas
 
 - [MNIST-with-ScikitLearn]:
 In this small computer vision project, I use the famous MNIST dataset to
@@ -21,7 +22,7 @@ In this small computer vision project, I use the famous MNIST dataset to
  #Hyperopt #Sklearn #Pandas
 
  - [Track My Trash Back-End]:
-This is a webapp that I made using GoogleMaps API to deal with addresses, the app is used to find the nearests recycling sites in the Alps region of France. <br/>
+This is a webapp that I made using GoogleMaps API to deal with addresses, the app is used to find the nearests recycling sites in the Alps region of France. Use the webapp: [track-my-trash]. <br/>
 #Flask #googleMapsAPI #Pandas
 --------------
 
@@ -78,3 +79,4 @@ This is a webapp that I made using GoogleMaps API to deal with addresses, the ap
 [MNIST-with-ScikitLearn]: https://github.com/kairosilveira/MNIST-with-ScikitLearn
 [Track My Trash Back-End]: https://github.com/kairosilveira/track_my_trash_backend
 [king-county-house-prices]: https://king-county-house-prices.vercel.app/
+[track-my-trash]:https://track-my-trash.vercel.app/
