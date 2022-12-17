@@ -12,16 +12,17 @@
 #### Description of some of my projects:
 
 - [House Price Regression]:
-Data science project to extract insights from data and create a machine learning model
- to predict prices in the real state market. You can make predictions using the [WebApp]<br/>
+End to end data science project to extract insights from data and create a machine learning model
+ to predict prices in the real state market. You can make predictions using the webapp:[king-county-house-prices]<br/>. #Flask #MLFlow #Sklearn #Pandas
 
 - [MNIST-with-ScikitLearn]:
 In this small computer vision project, I use the famous MNIST dataset to
  build a model. The goal is to apply techniques of dimensionality reduction and Bayesian Optimization for quicker hyperparameter tuning.<br/>
+ #Hyperopt #Sklearn #Pandas
 
- - [Titanic Competition]:
-This is a kaggle competition for begginers that I used to show how to use sklearn pipelines for 
-data preparation and how to tune the hyperparameters of the pipeline transformers and predictors with GridSearchCV. <br/>
+ - [Track My Trash Back-End]:
+This is a webapp that I made using GoogleMaps API to deal with addresses, the app is used to find the nearests recycling sites in the Alps region of France. <br/>
+#Flask #googleMapsAPI #Pandas
 --------------
 
 ####  Contact me here:
@@ -75,4 +76,5 @@ data preparation and how to tune the hyperparameters of the pipeline transformer
 [House Price Regression]: https://github.com/kairosilveira/house-pricing-regression
 [Titanic Competition]: https://github.com/kairosilveira/Titanic_GridSearchCV_DataPreparation
 [MNIST-with-ScikitLearn]: https://github.com/kairosilveira/MNIST-with-ScikitLearn
-[WebApp]: https://king-county-house-prices.vercel.app/
+[Track My Trash Back-End]: https://github.com/kairosilveira/track_my_trash_backend
+[king-county-house-prices]: https://king-county-house-prices.vercel.app/
